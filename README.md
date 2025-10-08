@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Isaac Resende!
+# 👋 Olá, eu sou o Isaac
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
 💻 Focado em Engenharia de Software e Backend  
