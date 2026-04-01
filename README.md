@@ -15,6 +15,8 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isaacsousaresende567@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Isaacbr601)
 
+![](https://komarev.com/ghpvc/?username=Isaacbr601&color=blueviolet&style=flat-square&label=visitas+ao+perfil)
+
 </div>
 
 ---
@@ -89,16 +91,32 @@ public class Isaac {
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Habilidades
 
-<div align="center">
+![Java](https://img.shields.io/badge/Java-80%25-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![](https://progress-bar.xyz/80/?scale=100&width=200&color=ED8B00&suffix=%25)
 
-<a href="https://github.com/Isaacbr601">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Isaacbr601&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isaacbr601&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
-</a>
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-55%25-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![](https://progress-bar.xyz/55/?scale=100&width=200&color=6DB33F&suffix=%25)
 
-</div>
+![SQL](https://img.shields.io/badge/SQL-70%25-316192?style=flat-square&logo=postgresql&logoColor=white)
+![](https://progress-bar.xyz/70/?scale=100&width=200&color=316192&suffix=%25)
+
+![Git](https://img.shields.io/badge/Git-75%25-F05032?style=flat-square&logo=git&logoColor=white)
+![](https://progress-bar.xyz/75/?scale=100&width=200&color=F05032&suffix=%25)
+
+![Python](https://img.shields.io/badge/Python-30%25-3776AB?style=flat-square&logo=python&logoColor=white)
+![](https://progress-bar.xyz/30/?scale=100&width=200&color=3776AB&suffix=%25)
+
+---
+
+## 🐍 Contribuições
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Isaacbr601/Isaacbr601/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Isaacbr601/Isaacbr601/output/github-contribution-grid-snake.svg">
+  <img alt="snake animation" src="https://raw.githubusercontent.com/Isaacbr601/Isaacbr601/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
